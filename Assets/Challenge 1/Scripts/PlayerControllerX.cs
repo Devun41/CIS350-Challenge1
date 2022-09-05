@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Challenge 1
+ * Adds forward movement and vertical movement based on key input
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Challenge 1
+ * Changes gameOver to true if player is out of bounds
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Challenge 1
+ * Makes the camera follow the player object
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

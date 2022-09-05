@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Challenge 1
+ * Add 1 to score when passing through trigger zones
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

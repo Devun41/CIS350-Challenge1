@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Challenge 1
+ * Checks for winning/losing events
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
